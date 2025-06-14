@@ -1,7 +1,7 @@
 # 📊 GitHub Stats
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawszera&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawszera&layout=compact&theme=dracula)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavokowallski&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokowallski&layout=compact&theme=dracula)
 
 ---
 
@@ -29,7 +29,7 @@
 
 - 📧 Email: **kkowalskigustavo@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/gustavokowallski](https://www.linkedin.com/in/gustavokowallski)
-- 🖥️ GitHub: [github.com/nawszera](https://github.com/nawszera)
+- 🖥️ GitHub: [github.com/gustavokowallski](https://github.com/gustavokowallski)
 
 ---
 

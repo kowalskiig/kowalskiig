@@ -1,16 +1,36 @@
-## Hi there 👋
+# 📊 GitHub Stats
 
-<!--
-**gustavokowallski/gustavokowallski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawszera&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawszera&layout=compact&theme=dracula)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Olá! Eu sou Gustavo Kowalski
+
+🎓 **Estagiário Desenvolvedor Backend Java**  
+🚀 Focado em construir aplicações sólidas e seguras com Java e Spring Boot  
+🔐 Com experiência em **Spring Security**, **SQL** e **APIs REST**
+
+## 💻 Tecnologias & Ferramentas
+
+- **Linguagens:** Java  
+- **Frameworks:** Spring Boot · Spring Security  
+- **Banco de Dados:** PostgreSQL · MySQL  
+- **Outros:** Git · Postman · VS Code · IntelliJ IDEA
+
+## 📚 Atualmente estudando
+
+- Clean Code & Clean Architecture (Robert C. Martin)  
+- Design Patterns aplicados no backend  
+- Boas práticas para APIs RESTful  
+- Inglês para o mercado internacional
+
+## 📫 Contato
+
+- 📧 Email: **kkowalskigustavo@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/gustavokowallski](https://www.linkedin.com/in/gustavokowallski)
+- 🖥️ GitHub: [github.com/nawszera](https://github.com/nawszera)
+
+---
+
+⭐️ Explore meus projetos e contribuições no GitHub!

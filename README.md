@@ -7,7 +7,7 @@
 
 # 👋 Olá! Eu sou Gustavo Kowalski
 
-🎓 **Estagiário Desenvolvedor Backend Java**  
+🎓 **Desenvolvedor Backend**  
 🚀 Focado em construir aplicações sólidas e seguras com Java e Spring Boot  
 🔐 Com experiência em **Spring Security**, **SQL** e **APIs REST**
 

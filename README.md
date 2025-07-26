@@ -1,45 +1,78 @@
-# Sou o Gustavo Kowalski
+<h1 align="center">Olá, eu sou o Gustavo Kowalski 👋</h1>
 
-🎯 Desenvolvedor **Backend Java** apaixonado por criar APIs REST seguras, performáticas e escaláveis.  
-🛠️ Com experiência sólida em **Spring Boot**, **Spring Security**, **PostgreSQL** e testes automatizados.  
-🚀 Atualmente me aprofundo em **Clean Code**, **Arquitetura Limpa** e **Design Patterns** aplicados ao backend.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Gustavo%20Kowalski&fontSize=40&fontColor=FFFFFF" />
+</p>
 
----
-
-## 🔧 Tecnologias & Ferramentas
-
-- **Linguagens:** Java  
-- **Frameworks:** Spring Boot · Spring Security  
-- **Banco de Dados:** PostgreSQL · MySQL  
-- **Testes:** JUnit 5 · Mockito · RestAssured  
-- **DevOps:** Docker · Docker Compose  
-- **Ferramentas:** Git · Postman · IntelliJ IDEA · VS Code
+<p align="center">
+  <b>Desenvolvedor Backend Java | Spring Boot | Docker</b><br/>
+  Estudante de Engenharia de Software na UMC | Focado em qualidade de código, testes e APIs RESTful
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Sobre mim
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavokowallski&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokowallski&layout=compact&theme=dracula)
+🎯 Atualmente focado em construir aplicações backend robustas com **Java** e **Spring Boot**, sempre aplicando princípios de **Clean Code**, **Design Patterns**, testes automatizados e boas práticas RESTful.
+
+📚 Estudo **Clean Architecture**, **microsserviços**, **Docker**, **CI/CD com GitHub Actions** e **Deploy em nuvem**.
+
+🔍 Buscando minha primeira oportunidade como Desenvolvedor Backend.
 
 ---
 
-## 📚 Atualmente estudando
+## 🛠️ Tecnologias e Ferramentas
 
-- Clean Code & Clean Architecture (Robert C. Martin)  
-- Design Patterns no backend  
-- Padrões e boas práticas para APIs RESTful  
-- Testes de integração com RestAssured e containers  
-- Inglês para atuação internacional
+| Backend | Testes | Banco de Dados | DevOps / Infra |
+|--------|--------|----------------|----------------|
+| Java · Spring Boot · Spring Security | JUnit 5 · Mockito · MockMvc · REST Assured | PostgreSQL · MongoDB · NoSQL (MongoDB) | Docker · Docker Compose · GitHub Actions |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavokowallski&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokowallski&layout=compact&theme=dracula" height="150"/>
+</p>
+
+---
+
+## 📁 Projetos em Destaque
+
+- 🔐 **MinhaReceita**  
+  API RESTful para organização de receitas, com autenticação, autorização, testes e documentação Swagger.  
+  [🔗 Ver no GitHub](https://github.com/gustavokowallski/MinhaReceita)
+
+- 📁 **DsCommerce**  
+ Implementação de segurança a uma API refente a um E-Commerce, autenticações, controles de acesso e login implementados.  
+ [🔗 Ver no GitHub](https://github.com/gustavokowallski/DsCommerce)
+
+- 🎮 **MyGameList**  
+  API para gerenciamento de jogos com Deploy e Docker.  
+  [🔗 Ver no GitHub](https://github.com/gustavokowallski/GameList)
+
+---
+
+## 📚 Atualmente Estudando
+
+- Microsserviços com Spring Cloud  
+- Deploy com Docker e AWS  
+- Lendo Código Limpo Robert C. Martin
+- Inglês técnico para o mercado global
 
 ---
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavokowallski)  
-- 🖥️ [GitHub](https://github.com/gustavokowallski)  
-- ✉️ kkowalskigustavo@gmail.com
+- ✉️ Email: kkowalskigustavo@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-kowalski-94234b322/)  
+- 💻 [GitHub](https://github.com/gustavokowallski)
+- 📞 Número: 11 96187-8650
+
 
 ---
 
-⭐️ Explore meus projetos abaixo e veja na prática como aplico boas práticas no desenvolvimento backend!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+</p>

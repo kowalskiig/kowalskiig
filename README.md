@@ -16,11 +16,6 @@ Estudante de Engenharia de Software na Universidade de Mogi das Cruzes
 
 💡 Atualmente, estou expandindo meus conhecimentos em arquiteturas de Microserviços com RabbitMQ e aprimorando meu domínio de CI/CD e Deploy em nuvem.
 
-💻 Habilidades e Ferramentas
-Backend
-Banco de Dados
-DevOps & Cloud
-Testes & Qualidade de Código
 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gustavokowallski&show_icons=true&theme=dracula&count_private=true" height="180"/>
@@ -33,7 +28,16 @@ Testes & Qualidade de Código
   Uma API RESTful pensada para organização de receitas de forma simples e segura.  
   👉 Autenticação moderna, arquitetura limpa e documentação completa.  
   [🔗 Descubra mais](https://github.com/gustavokowallski/MinhaReceita)
-
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=restrf&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-4479A1?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
@@ -41,7 +45,13 @@ Testes & Qualidade de Código
   Um sistema de E-Commerce backend com foco em **segurança e escalabilidade**.  
   👉 Login seguro, controle de permissões e estrutura pronta para crescer.  
   [🔗 Descubra mais](https://github.com/gustavokowallski/DsCommerce)
-
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-4479A1?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
@@ -49,6 +59,12 @@ Testes & Qualidade de Código
   Uma API para gamers que desejam organizar sua coleção de jogos.  
   👉 Containerizada com Docker e projetada para fácil integração.  
   [🔗 Descubra mais](https://github.com/gustavokowallski/GameList)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 

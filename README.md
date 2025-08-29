@@ -35,7 +35,7 @@ Estudante de Engenharia de Software na Universidade de Mogi das Cruzes
 ### 🚀 Principais Projetos
 
 * **Análise de Crédito:** Uma API para analisar créditos com arquitetura de microsserviços e comunicação assíncrona, com 2 microsserviços e mensageria com RabbitMQ.
-* **Minha Receita:** Uma API completa para site de publicação de receitas com segurança, testes e CI/CD automatizado.
+* **Receita Compartilhada:** Uma API completa para site de publicação de receitas com segurança, testes e CI/CD automatizado.
 * **Ds Commerce:** Implementação de segurança em um projeto E-Commerce, utilizando Spring Security, JWT e oAuth2.
 * **My Game List:** aplicação web backend desenvolvida com o objetivo de gerenciar listas de jogos de forma personalizada e intuitiva. .
 ---

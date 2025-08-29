@@ -14,7 +14,17 @@ Estudante de Engenharia de Software na Universidade de Mogi das Cruzes
 
 🎯 Desenvolvedor Backend com foco em criar aplicações robustas e escaláveis usando Java e Spring Boot. Sou apaixonado por resolver problemas complexos e obcecado por qualidade de código. Minha experiência inclui a aplicação de boas práticas RESTful, a escrita de testes automatizados e o uso de Docker para containerização.
 
-💡 Atualmente, estou expandindo meus conhecimentos em arquiteturas de Microserviços com RabbitMQ e aprimorando meu domínio de CI/CD e Deploy em nuvem.
+💡 Atualmente, estou expandindo meus conhecimentos em arquiteturas de Microserviços com RabbitMQ e aprimorando meu domínio de CI/CD.
+
+### 💻 Minhas Habilidades
+
+- **Linguagens:** Java, SQL
+- **Frameworks:** Spring Boot, Spring Security, Hibernate/JPA
+- **Bancos de Dados:** PostgreSQL
+- **Ferramentas:** Git, Docker, RabbitMQ, JUnit, Mockito, TDD, CI/CD (GitHub Actions)
+- **Nuvem:** AWS (contato inicial com S3, EC2, RDS, SNS)
+
+---
 
 📊 GitHub Stats
 <p align="center">
@@ -22,74 +32,15 @@ Estudante de Engenharia de Software na Universidade de Mogi das Cruzes
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokowallski&layout=compact&theme=dracula" height="180"/>
 </p>
 
-## 📁 Projetos
+### 🚀 Principais Projetos
 
-- 🔐 **MinhaReceita**  
-  Uma API RESTful pensada para organização de receitas de forma simples e segura.  
-  [🔗 Descubra mais](https://github.com/gustavokowallski/MinhaReceita)
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=restrf&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-<img src="https://img.shields.io/badge/JPA-4479A1?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
+* **Análise de Crédito:** Uma API para analisar créditos com arquitetura de microsserviços e comunicação assíncrona, com 2 microsserviços e mensageria com RabbitMQ.
+* **Minha Receita:** Uma API completa para site de publicação de receitas com segurança, testes e CI/CD automatizado.
+* **Ds Commerce:** Implementação de segurança em um projeto E-Commerce, utilizando Spring Security, JWT e oAuth2.
+* **My Game List:** aplicação web backend desenvolvida com o objetivo de gerenciar listas de jogos de forma personalizada e intuitiva. .
 ---
 
-- 🛒 **DsCommerce**  
-  Um sistema de E-Commerce backend com foco em **segurança e escalabilidade**.  
-  [🔗 Descubra mais](https://github.com/gustavokowallski/DsCommerce)
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-<img src="https://img.shields.io/badge/JPA-4479A1?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-🚀 **CreditAnalyzer**
-Uma API que simula um sistema de análise de crédito usando arquitetura de microsserviços e comunicação assíncrona. 2 Microsserviços:
-🔗 Repositório do serviço de Proposta: https://github.com/gustavokowallski/Proposta-app-
-🔗 Repositório do serviço de Análise de crédito: https://github.com/gustavokowallski/Analise-credito-app
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20SNS-FF9900?style=for-the-badge&logo=awssns&logoColor=white" />
-</p>
-
----
-
-- 🎮 **MyGameList**  
-
-  Uma API para gamers que desejam organizar sua coleção de jogos.   
-
-  [🔗 Descubra mais](https://github.com/gustavokowallski/GameList)
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-</p>
-
-
-
----
-
-## 📫 Contatos
+## 📫 Conecte-se comigo
 
 - ✉️ Email: kkowalskigustavo@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/gustavokowalski/

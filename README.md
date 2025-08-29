@@ -26,7 +26,6 @@ Estudante de Engenharia de Software na Universidade de Mogi das Cruzes
 
 - 🔐 **MinhaReceita**  
   Uma API RESTful pensada para organização de receitas de forma simples e segura.  
-  👉 Autenticação moderna, arquitetura limpa e documentação completa.  
   [🔗 Descubra mais](https://github.com/gustavokowallski/MinhaReceita)
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -43,7 +42,6 @@ Estudante de Engenharia de Software na Universidade de Mogi das Cruzes
 
 - 🛒 **DsCommerce**  
   Um sistema de E-Commerce backend com foco em **segurança e escalabilidade**.  
-  👉 Login seguro, controle de permissões e estrutura pronta para crescer.  
   [🔗 Descubra mais](https://github.com/gustavokowallski/DsCommerce)
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -56,8 +54,7 @@ Estudante de Engenharia de Software na Universidade de Mogi das Cruzes
 ---
 
 - 🎮 **MyGameList**  
-  Uma API para gamers que desejam organizar sua coleção de jogos.  
-  👉 Containerizada com Docker e projetada para fácil integração.  
+  Uma API para gamers que desejam organizar sua coleção de jogos.   
   [🔗 Descubra mais](https://github.com/gustavokowallski/GameList)
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

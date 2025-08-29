@@ -53,7 +53,7 @@ Estudante de Engenharia de Software na Universidade de Mogi das Cruzes
 
 ---
 
-🚀 CreditAnalyzer
+🚀 **CreditAnalyzer**
 Uma API que simula um sistema de análise de crédito usando arquitetura de microsserviços e comunicação assíncrona. 2 Microsserviços:
 🔗 Repositório do serviço de Proposta: https://github.com/gustavokowallski/Proposta-app-
 🔗 Repositório do serviço de Análise de crédito: https://github.com/gustavokowallski/Analise-credito-app
@@ -65,7 +65,29 @@ Uma API que simula um sistema de análise de crédito usando arquitetura de micr
 <img src="https://img.shields.io/badge/Amazon%20SNS-FF9900?style=for-the-badge&logo=awssns&logoColor=white" />
 </p>
 
+---
 
+- 🎮 **MyGameList**  
+
+  Uma API para gamers que desejam organizar sua coleção de jogos.   
+
+  [🔗 Descubra mais](https://github.com/gustavokowallski/GameList)
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</p>
+
+
+
+---
 
 ## 📫 Contatos
 

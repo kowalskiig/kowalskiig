@@ -33,7 +33,8 @@ Tenho experiência com boas práticas RESTful, testes automatizados e uso de Doc
 - [**SharedRecipes**](https://github.com/gustavokowallski/SharedRecipes)  
   API para gerenciamento e compartilhamento de receitas com autenticação, testes automatizados e CI/CD.
 
-- [**CreditCheck API**](https://github.com/gustavokowallski/CreditCheck)  
+- [**Serviço Proposta**](https://github.com/gustavokowallski/Proposta-app-) | 
+  [**Serviço Analise**](https://github.com/gustavokowallski/Analise-credito-app)  
   API para análise de crédito com arquitetura de **microsserviços** e mensageria assíncrona via **RabbitMQ**.
 
 - [**DSCommerce - Security**](https://github.com/gustavokowallski/DsCommerce)  

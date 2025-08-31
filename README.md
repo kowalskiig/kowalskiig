@@ -40,10 +40,7 @@ Tenho experiência com boas práticas RESTful, testes automatizados e uso de Doc
 - [**DSCommerce - Security**](https://github.com/gustavokowallski/DsCommerce)  
   Implementação de segurança em projeto e-commerce, com **JWT**, **OAuth2** e **Spring Security**.
 
-- [**GameList**](https://github.com/gustavokowallski/GameList)  
-  API REST para criação e organização de listas de jogos, com modelagem de relacionamentos complexos usando Spring Data JPA.
 
----
 
 ## 📊 GitHub Stats
 

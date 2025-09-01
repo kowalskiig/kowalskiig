@@ -37,6 +37,9 @@ Tenho experiência com boas práticas RESTful, testes automatizados e uso de Doc
   [**Serviço Analise**](https://github.com/gustavokowallski/Analise-credito-app)  
   API para análise de crédito com arquitetura de **microsserviços** e mensageria assíncrona via **RabbitMQ**.
 
+- [**ToDo List**](https://github.com/gustavokowallski/ToDo-List-)  
+  API de gerenciamento de tarefas com regras de negócio reais e abordagem TDD(Test-Driven Development) desde o início. Foco em testes de integração com RestAssured e práticas de Clean Code.
+
 - [**DSCommerce - Security**](https://github.com/gustavokowallski/DsCommerce)  
   Implementação de segurança em projeto e-commerce, com **JWT**, **OAuth2** e **Spring Security**.
 

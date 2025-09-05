@@ -1,64 +1,91 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Gustavo%20Kowalski&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Desenvolvedor%20Backend%20Java&descAlignY=55&descAlign=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5000&pause=120&color=58A6FF&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!" />
 </p>
 
 <p align="center">
-<b>Java | Spring Boot | Docker | AWS | APIs RESTful | Testes Unitários</b><br/>
-Estudante de Engenharia de Software na Universidade de Mogi das Cruzes
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Developer-💻-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-21-blue?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.5.4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-JWT/oAuth2-3FA043?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsserviços-Learning-B0C4DE?style=flat-square" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Learning-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD-Beginner-992222?style=flat-square&logo=tdd&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-Beginner-47A248?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-beginner-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/gustavokowallski">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  </a>
+</p>
+
+## 🧑‍💻 Sobre Mim
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=58A6FF&multiline=true&width=950&height=120&lines=🚀+Sou+Desenvolvedor+Backend+com+1+ano+de+prática.;☕+Focado+em+construir+APIs+REST+robustas+e+seguras+com+Java+21+e+Spring+Boot.;⚡+Focado+em+me+especializar+como+Dev+Back-end;🎯+Busco+minha+primeira+oportunidade+em+times+que+valorizam+aprendizado+contínuo.;🌐+Objetivo:+evoluir+para+Pleno+e+aprofundar+em+Microsserviços+e+Cloud.">
+</p>
+
+
+
+
+<!-- Status -->
+
+
+
+
+
+##  Vejo meus repositórios
+
+<p align="center">
+  <a href="https://github.com/gustavokowallski/SharedRecipes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=SharedRecipes&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/gustavokowallski/ToDo-List-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=ToDo-List-&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/gustavokowallski/Proposta-app-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=Proposta-app-&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/gustavokowallski/DsCommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=DsCommerce&theme=tokyonight" />
+  </a>
+</p>
+
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavokowallski&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavokowallski&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-## 🚀 Sobre Mim
-
-🎯 Desenvolvedor Backend com foco em criar **sistemas robustos e escaláveis** usando Java e Spring Boot. Sou apaixonado por resolver problemas complexos e obcecado por qualidade de código.  
-Tenho experiência com boas práticas RESTful, testes automatizados e uso de Docker para containerização.
-
-💡 Atualmente estudando arquitetura de microsserviços com RabbitMQ e aprimorando meu domínio de CI/CD com GitHub Actions.
-
----
-
-## 💻 Minhas Habilidades
-
-- **Linguagens:** Java, SQL  
-- **Frameworks:** Spring Boot, Spring Security, Hibernate/JPA  
-- **Bancos de Dados:** PostgreSQL, MySQL  
-- **Ferramentas:** Git, Docker, RabbitMQ, JUnit, Mockito, Swagger, TDD, CI/CD (GitHub Actions)  
-- **Nuvem:** AWS (S3, EC2, RDS, SNS - nível introdutório)
-
----
-
-## 📌 Projetos em Destaque
-
-- [**SharedRecipes**](https://github.com/gustavokowallski/SharedRecipes)  
-  API para gerenciamento e compartilhamento de receitas com autenticação, testes automatizados e CI/CD.
-
-- [**Serviço Proposta**](https://github.com/gustavokowallski/Proposta-app-) | 
-  [**Serviço Analise**](https://github.com/gustavokowallski/Analise-credito-app)  
-  API para análise de crédito com arquitetura de **microsserviços** e mensageria assíncrona via **RabbitMQ**.
-
-- [**ToDo List**](https://github.com/gustavokowallski/ToDo-List-)  
-  API de gerenciamento de tarefas com regras de negócio reais e abordagem TDD(Test-Driven Development) desde o início. Foco em testes de integração com RestAssured e práticas de Clean Code.
-
-- [**DSCommerce - Security**](https://github.com/gustavokowallski/DsCommerce)  
-  Implementação de segurança em projeto e-commerce, com **JWT**, **OAuth2** e **Spring Security**.
-
-
-
-## 📊 GitHub Stats
+## 📬 Contato
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gustavokowallski&show_icons=true&theme=dracula&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokowallski&layout=compact&theme=dracula" height="180"/>
+  <a href="https://www.linkedin.com/in/gustavokowalski">
+    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Kowalski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+
+
+<a href="mailto:kkowalskigustavo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kkowalskigustavo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
-
-## 📫 Conecte-se Comigo
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavokowalski/)
-- ✉️ kkowalskigustavo@gmail.com
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RwcjZ1eTI5eDJ2bGJkOG9lNXlxNjY4eXAzNnphdTR2bWFoMzR1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1c2e1Wz8YwA5cc6mb/giphy.gif" width="200px"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Obrigado%20por%20Visualizar!&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Obrigado+por+visitar+meu+GitHub!;Fique+à+vontade+para+conectar+ou+mandar+mensagem." />
 </p>

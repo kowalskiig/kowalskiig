@@ -47,11 +47,11 @@
   <a href="https://github.com/gustavokowallski/SharedRecipes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=SharedRecipes&theme=tokyonight" />
   </a>
+  <a href="https://github.com/gustavokowallski/CreditCheckAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=CreditCheckAPI&theme=tokyonight" />
+  </a>
   <a href="https://github.com/gustavokowallski/ToDo-List-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=ToDo-List-&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/gustavokowallski/Proposta-app-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=Proposta-app-&theme=tokyonight" />
   </a>
   <a href="https://github.com/gustavokowallski/DsCommerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=DsCommerce&theme=tokyonight" />

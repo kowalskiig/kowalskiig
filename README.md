@@ -35,28 +35,27 @@
 
 
 
+
 <!-- Status -->
 
-
-
-
-
-##  Vejo meus repositórios
+## 🚀 Veja meus repositórios
 
 <p align="center">
   <a href="https://github.com/gustavokowallski/SharedRecipes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=SharedRecipes&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=SharedRecipes&theme=tokyonight&cache_seconds=60&random=1" />
   </a>
   <a href="https://github.com/gustavokowallski/CreditCheckAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=CreditCheckAPI&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=CreditCheckAPI&theme=tokyonight&cache_seconds=60&random=2" />
   </a>
   <a href="https://github.com/gustavokowallski/ToDo-List-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=ToDo-List-&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=ToDo-List-&theme=tokyonight&cache_seconds=60&random=3" />
   </a>
   <a href="https://github.com/gustavokowallski/DsCommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=DsCommerce&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavokowallski&repo=DsCommerce&theme=tokyonight&cache_seconds=60&random=4" />
   </a>
 </p>
+
+
 
 
 ## 📊 Estatísticas

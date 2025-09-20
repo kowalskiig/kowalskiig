@@ -1,7 +1,8 @@
-<p>💻 Java Backend Developer with 7 months of experience.
-<p>🎓 Software Engineering student at Universidade de Mogi das Cruzes (UMC).
-<p>🗣️ Intermediate English.
-<p>📑 Focused on NoSQL and Cloud
+<p>🎓 Software Engineering student (6th semester) at Universidade de Mogi das Cruzes (UMC).
+<p>💻 Building backend applications with Java, Spring Boot, PostgreSQL, Docker and AWS.
+<p>🔐 Specializing in secure REST APIs, microservices with RabbitMQ, and AWS cloud deployments (EC2, RDS, S3).
+<p>✅ Experience through academic and personal projects with 90%+ test coverage, CI/CD pipelines, and clean architecture.  
+<p>🌍 Intermediate English (B1). 
 <p>📬 Connect with me on 
   <a href="https://www.linkedin.com/in/gustavokowalski/" target="_blank">LinkedIn</a> | 
   <a href="mailto:kkowalskigustavo@gmail.com">Email</a>

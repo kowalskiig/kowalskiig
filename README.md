@@ -2,7 +2,7 @@
   
 ### Bem-vindo ao meu perfil!
 
-<p>Sou Desenvolvedor de Software focado no Backend utilizando Java e Spring Boot.</p>
+<p>Sou Desenvolvedor de Software focado no Backend utilizando Java e Spring Boot há 7 meses.</p>
 <p>Atualmente curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC). </p>
 
 

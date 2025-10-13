@@ -19,4 +19,45 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavokowalski/) ou
 
 
 
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/kowalskiig"> 🔗
+  https://gitfollio.vercel.app/kowalskiig
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Gustavo Kowalski",
+  "email": "gukowalski.dev@gmail.com",
+  "tagline": "Back-end developer",
+  "avatar_url": "https://avatars.githubusercontent.com/u/132960061?v=4",
+  "website": "",
+  "githubUser": "kowalskiig",
+  "linkedinUser": "https://www.linkedin.com/in/gustavokowalski/",
+  "about": "",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 5,
+  "following": 1,
+  "themeId": "dark",
+  "tech": [
+  "Java",
+  "Spring Boot"
+],
+  "projects": [
+  {
+    "id": 1071052278,
+    "repoName": "S3",
+    "url": "https://github.com/kowalskiig/S3",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
 

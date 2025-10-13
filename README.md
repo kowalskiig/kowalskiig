@@ -1,12 +1,11 @@
 
-  
-### Bem-vindo ao meu perfil!
 
-<p>Sou Desenvolvedor de Software focado no Backend utilizando Java e Spring Boot há 7 meses.</p>
+
+<p> Desenvolvedor de Software focado no Backend utilizando Java e Spring Boot há 7 meses.</p>
 <p>Atualmente curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC). </p>
 
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavokowalski/) ou [Email](mailto:kkowalskigustavo@gmail.com)  
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavokowalski/) 
 
 <hr>
 
@@ -17,18 +16,6 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavokowalski/) ou
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Conheça+meus+projetos+abaixo)
 
 
-
-
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/kowalskiig"> 🔗
-  https://gitfollio.vercel.app/kowalskiig
-</a>
-
-
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/kowalskiig"> 🔗
-  https://gitfollio.vercel.app/kowalskiig
-</a>
 
 <!-- GitFolio:start
 {
@@ -104,6 +91,10 @@ Acesse meu portfólio em:
     "deploy": "",
     "highlighted": true
   }
+]
+}
+GitFolio:end -->
+  
 ]
 }
 GitFolio:end -->

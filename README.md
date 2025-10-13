@@ -17,6 +17,12 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavokowalski/)
 
 
 
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/kowalskiig"> 🔗
+  https://gitfollio.vercel.app/kowalskiig
+</a>
+
 <!-- GitFolio:start
 {
   "gitfolio": "on",
@@ -91,10 +97,6 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavokowalski/)
     "deploy": "",
     "highlighted": true
   }
-]
-}
-GitFolio:end -->
-  
 ]
 }
 GitFolio:end -->

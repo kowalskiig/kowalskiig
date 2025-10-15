@@ -1,6 +1,6 @@
-
-
-
+<p>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Terminal Animation" width="400"/>
+</p>
 <p> Desenvolvedor de Software focado no Backend utilizando Java e Spring Boot há 7 meses.</p>
 <p>Atualmente curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC). </p>
 
@@ -12,10 +12,6 @@ Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavokowalski/)
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git,githubactions,rabbitmq,junit)](https://skillicons.dev)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Conheça+meus+projetos+abaixo)
-
-
 
 
 Acesse meu portfólio em: 

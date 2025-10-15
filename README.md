@@ -8,9 +8,13 @@
 <p>Tenho experiência prática em desenvolvimento de APIs REST, integração de microsserviços, testes automatizados (JUnit), e uso de tecnologias como Docker, RabbitMQ e AWS. Sou apaixonado por aprender novas ferramentas, colaborar em projetos open source e buscar soluções eficientes para desafios reais.</p>
 <p>Busco oportunidades para crescer profissionalmente, contribuir em equipes dinâmicas e participar de projetos inovadores. Estou sempre aberto a networking e trocas de conhecimento.</p>
 
-### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git,githubactions,rabbitmq,junit)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git,githubactions,rabbitmq,junit" alt="My Skills" />
+  </a>
+</p>
 
 <h2 align="center"> Conecte-se comigo </p>
 

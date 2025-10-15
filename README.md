@@ -7,7 +7,6 @@
 - Desenvolvedor de Software com foco em backend, utilizando Java e Spring Boot. Atualmente cursando o 6º semestre de Engenharia de Software na Universidade de Mogi das Cruzes (UMC).
 - Experiência prática no desenvolvimento de APIs REST, integração de microsserviços, testes automatizados com JUnit e aplicação de tecnologias como Docker, RabbitMQ e AWS.
 - Apaixonado por aprendizado contínuo, colaboração em projetos open source e busca constante por soluções inovadoras para desafios reais.
-- Em busca de oportunidades para evolução profissional, contribuindo em equipes dinâmicas e participando de projetos que geram impacto.
 - Aberto para networking, troca de conhecimento e novas conexões na área de tecnologia.
 
 

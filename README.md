@@ -15,13 +15,14 @@
 <h2 align="center"> Conecte-se comigo </p>
 
  <p align="center">
+   <a href="https://www.linkedin.com/in/gustavokowalski/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" />
+  </a>
   <a href="https://gitfollio.vercel.app/kowalskiig" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Portfolio" width="36" style="vertical-align:middle;"/>
     
   </a>
-  <a href="https://www.linkedin.com/in/gustavokowalski/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" />
-  </a>
+  
 </p>
 
   

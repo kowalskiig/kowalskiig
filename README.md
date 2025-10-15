@@ -1,17 +1,20 @@
 <p>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Terminal Animation" width="400"/>
 </p>
-<p> Desenvolvedor de Software focado no Backend utilizando Java e Spring Boot há 7 meses.</p>
-<p>Atualmente curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC). </p>
-
-
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavokowalski/) 
+<p> Desenvolvedor de Software focado no Backend utilizando Java e Spring Boot, cursando Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC).</p>
+<p> </p>
+<p>Tenho experiência prática em desenvolvimento de APIs REST, integração de microsserviços, testes automatizados (JUnit), e uso de tecnologias como Docker, RabbitMQ e AWS. Sou apaixonado por aprender novas ferramentas, colaborar em projetos open source e buscar soluções eficientes para desafios reais.</p>
+<p>Busco oportunidades para crescer profissionalmente, contribuir em equipes dinâmicas e participar de projetos inovadores. Estou sempre aberto a networking e trocas de conhecimento.</p>
 
 <hr>
 
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git,githubactions,rabbitmq,junit)](https://skillicons.dev)
+
+
+
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gustavokowalski/) 
 
 
 Acesse meu portfólio em: 

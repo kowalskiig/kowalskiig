@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400"/>
-</p>
 
 
-
-<p>Desenvolvedor de Software focado no Backend utilizando Java e Spring, atualmente curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC).</p>
+<p>Desenvolvedor Backend, atualmente curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC).</p>
 <p>Tenho experiência prática em desenvolvimento de APIs REST, integração de microsserviços, testes automatizados (JUnit), e uso de tecnologias como Docker, RabbitMQ e AWS. Sou apaixonado por aprender novas ferramentas, colaborar em projetos open source e buscar soluções eficientes para desafios reais.</p>
-<p>Busco oportunidades para crescer profissionalmente, contribuir em equipes dinâmicas e participar de projetos inovadores. Estou sempre aberto a networking e trocas de conhecimento.</p>
 
 
 

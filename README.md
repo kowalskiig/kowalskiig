@@ -1,7 +1,6 @@
 
 
 <p>Desenvolvedor Backend, atualmente curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC).</p>
-<p>Tenho experiência prática em desenvolvimento de APIs REST, integração de microsserviços, testes automatizados (JUnit), e uso de tecnologias como Docker, RabbitMQ e AWS. Sou apaixonado por aprender novas ferramentas, colaborar em projetos open source e buscar soluções eficientes para desafios reais.</p>
 
 
 

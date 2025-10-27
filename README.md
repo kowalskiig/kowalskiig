@@ -1,27 +1,49 @@
 
+<div id="header" align="center">
+  <h1>☕ Olá! Eu sou o Gustavo Kowalski 🚀</h1>
+</div>
 
-<p>Desenvolvedor Backend, atualmente curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC).</p>
 
+### Desenvolvedor Back-End Java com Foco em Qualidade e Arquitetura
 
+<p align="center">
+  Sou Desenvolvedor Back-End, construindo soluções robustas em Java e Spring Boot. Atualmente, curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC).
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de Computador" width="400"/>
+</p>
+
+---
+
+<h3 align="center">🛠️ Minha Stack Principal  (Hard Skills)</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,git,githubactions,rabbitmq,junit" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,rabbitmq,junit,hibernate,jenkins,git,githubactions,idea" alt="Minha Stack: Java, Spring, PostgreSQL, Docker, AWS, RabbitMQ, JUnit, Hibernate, Jenkins" />
   </a>
 </p>
 
-<h2 align="center"> Conecte-se comigo </p>
 
- <p align="center">
-   <a href="https://www.linkedin.com/in/gustavokowalski/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" />
+
+---
+
+<h3 align="center">🌐 Conecte-se Comigo</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavokowalski/" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://gitfollio.vercel.app/kowalskiig" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Portfolio" width="36" style="vertical-align:middle;"/>
-    
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  
 </p>
+
+<br>
+
+<div align="center">
+  <p>Estou sempre buscando evoluir em Arquitetura Assíncrona (Kafka) e Design Patterns (DDD).</p>
+</div>
 
   
 </p>

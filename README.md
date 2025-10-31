@@ -1,12 +1,6 @@
 
-<div id="header" align="center">
-  <h1>☕ Olá! Eu sou o Gustavo Kowalski 🚀</h1>
-</div>
 
-
-### Desenvolvedor Back-End Java com Foco em Qualidade e Arquitetura
-
-<p align="center">
+<p>
   Sou Desenvolvedor Back-End, construindo soluções robustas em Java e Spring Boot. Atualmente, curso Engenharia de Software (6º semestre) na Universidade de Mogi das Cruzes (UMC).
 </p>
 

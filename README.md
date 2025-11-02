@@ -1,14 +1,15 @@
-<h2 align= "center"> Bem vindo ao meu perfil!</h2>
+<h2> Welcome to my GitHub Profile! </h2>
 
 <p>
-  Me chamo Gustavo e sou Desenvolvedor Backend com experiência na linguagem Java com Spring Boot.
+  👨‍💻 I'm a Backend Software Developer with almost 1 year of experience
 </p>
 <p>
-  Cursando Engenharia de Softtware na Universidade de Mogi das Cruzes, no 6 período.
+  🎓 Graduating in Software Engineering at Universidade de Mogi das Cruzes, 6°/8°.</p>
 </p>
 <p>
-  Estou iniciando minha jornada como desenvolvedor, abaixo você pode conferir meus principais projetos e minhas decisões ao decorrer deles.
+  ⬇️ Below you can find my main projects, and see my decisions and experiences during them.
 </p>
+<p> Find me on: <a href="https://www.linkedin.com/in/gustavokowalski/" target="_blank">LinkedIn</a></p>
 
   
 </p>

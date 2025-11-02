@@ -1,7 +1,7 @@
 <h2> Welcome to my GitHub Profile! </h2>
 
 <p>
-  👨‍💻 I'm a Backend Software Developer with almost 1 year of experience
+  👨‍💻 I'm a Backend Software Developer, using Java and Spring Boot.
 </p>
 <p>
   🎓 Graduating in Software Engineering at Universidade de Mogi das Cruzes, 6°/8°.</p>

@@ -11,9 +11,7 @@
   <p>🔠 B2 Intermediate English Level <a href="https://cert.efset.org/pt/UGxeoQ"> at EF SET</a>, improving.</p>
 </p>
 <p>☁️ AWS Loading... </a></p>
-<p>
-  ⬇️ Below you can find my main projects, and see my decisions and experiences during them.
-</p>
+
 
 
   
@@ -28,6 +26,8 @@
 
 <p> Find me on: <a href="https://www.linkedin.com/in/gustavokowalski/" target="_blank">LinkedIn</a></p>
 
-
+<p>
+  ⬇️ Below you can find my main projects, and see my decisions and experiences during them.
+</p>
 
 

@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,rabbitmq,hibernate,postgres,mongodb,docker,git" alt="Minha Stack: Java, Spring, AWS, RabbitMQ, Docker, JUnit, PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,rabbitmq,hibernate,postgres,mongodb,docker" alt="Minha Stack: Java, Spring, AWS, RabbitMQ, Docker, JUnit, PostgreSQL" />
   </a>
 </p>
 

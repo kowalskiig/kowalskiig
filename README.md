@@ -10,7 +10,7 @@
 <p>
   <p>🔠 B2 Intermediate English Level <a href="https://cert.efset.org/pt/UGxeoQ"> at EF SET</a>, improving.</p>
 </p>
-<p>☁️ AWS Loading... </a></p>
+<p>☁️ <a href="https://www.credly.com/badges/363c6e51-c3d5-4ff2-be71-7d4be2983ed5/public_url">1x AWS Certified</a></p>
 
 
 

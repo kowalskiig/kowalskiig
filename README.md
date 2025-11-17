@@ -1,4 +1,4 @@
-<h2> Welcome to my GitHub Profile! </h2>
+
 
 <p>
   👨‍💻 I'm a Backend Software Developer, using Java and Spring Boot.
